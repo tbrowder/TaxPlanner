@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "provides tax scenario testing for US Federal Income Taxes",
+  "license": "Artistic-2.0",
+  "name": "TaxPlanner",
+  "perl": "6.d",
+  "provides": {
+    "TaxPlanner": "lib/TaxPlanner.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
